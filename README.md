@@ -1,6 +1,6 @@
-# Pegasus Paraphrasing with Hugging Face Transformers
+# Text Paraphraser using Pegasus
 
-This repository demonstrates how to utilize Google's Pegasus model for text paraphrasing using the Hugging Face Transformers library in Python. Pegasus stands for Pre-training with Extracted Gap-sentences for Abstractive Summarization Sequence-to-sequence models, known for its effectiveness in generating high-quality paraphrases.
+This NLP project utilizes Google's Pegasus model for text paraphrasing using the Hugging Face Transformers library in Python. Pegasus stands for Pre-training with Extracted Gap-sentences for Abstractive Summarization Sequence-to-sequence models, known for its effectiveness in generating high-quality paraphrases.
 
 
 ## Overview
